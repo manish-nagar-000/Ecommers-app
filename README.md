@@ -1,5 +1,6 @@
-# BlinkIt-Clone-Full-Stack-Ecommerce
-BlinkIt-Clone-Full-Stack-Ecommerce
+# Ecommers app using mern stack
+mern stack app
+
 
 ![Alt text](Thumnails.png?raw=true "Title")
 
